@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name jack_2mm)(type KiCad)(uri "$(KIPRJMOD)/jack_2mm.pretty")(options "")(descr "KiCAD library for 6.3mm/2.1mm connector"))
+  (lib (name kicad-gigalib)(type Github)(uri https://github.com/metacollin/kicad-gigalib)(options "")(descr "KICAD GigaLib library"))
+)
