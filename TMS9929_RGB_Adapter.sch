@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:TMS9929_RGB_Adapter-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -36,10 +37,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "TMS9929A to RGB"
-Date "2016-06-20"
+Date "2017-09-17"
 Rev "0"
-Comp "Alexis Kotlowy"
-Comment1 ""
+Comp "Gerhard Wiesinger"
+Comment1 "Based on Alexis Kotlowy"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -974,7 +975,7 @@ U
 Text Label 9250 4750 0    60   ~ 0
 U
 $Comp
-L TL071 U6
+L TL071-RESCUE-TMS9929_RGB_Adapter U6
 U 1 1 57686080
 P 10650 4850
 F 0 "U6" H 10650 5100 50  0000 L CNN
